@@ -45,4 +45,4 @@ id_rsa：代表私钥    id_rsa.pub：代表公钥
 
 
 
-早GitHub上添加公钥后，可以直接在”Git Bash“中使用git clone/push/pull等指令连接仓库
+在GitHub上添加公钥后，可以直接在”Git Bash“中使用git clone/push/pull等指令连接仓库
